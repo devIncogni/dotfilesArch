@@ -1,0 +1,8 @@
+[Greeter]
+WallpaperPlugin=org.kde.potd
+
+[Greeter][LnF][General]
+alwaysShowClock=false
+
+[Greeter][Wallpaper][org.kde.potd][General]
+Provider=bing

@@ -1,0 +1,4 @@
+2024/12/10-17:16:17.050 1d9e Creating DB /home/jedi/.config/falkon/profiles/default/Local Storage/leveldb since it was missing.
+2024/12/10-17:16:17.068 1d9e Reusing MANIFEST /home/jedi/.config/falkon/profiles/default/Local Storage/leveldb/MANIFEST-000001
+2024/12/10-17:18:46.781 1d9e Level-0 table #5: started
+2024/12/10-17:18:46.794 1d9e Level-0 table #5: 186030 bytes OK

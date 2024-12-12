@@ -1,0 +1,17 @@
+[Desktops]
+Id_1=665c476d-d226-4101-b109-a515d334d024
+Number=1
+Rows=1
+
+[Tiling]
+padding=4
+
+[Tiling][a3e850ab-96d5-5af4-a384-6eb043e56a61]
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
+[Xwayland]
+Scale=1
+
+[org.kde.kdecoration2]
+BorderSize=NoSides
+BorderSizeAuto=false

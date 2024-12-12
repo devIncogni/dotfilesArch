@@ -1,0 +1,11 @@
+[General]
+clipboardGroup=PostScreenshotCopyImage
+rememberSelectionRect=Never
+useReleaseToCapture=true
+
+[ImageSave]
+lastImageSaveLocation=file:///home/jedi/Pictures/Screenshots/Screenshot_20241212_121332.png
+translatedScreenshotsFolder=Screenshots
+
+[VideoSave]
+translatedScreencastsFolder=Screencasts

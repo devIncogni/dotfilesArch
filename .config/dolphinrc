@@ -1,0 +1,27 @@
+[CompactMode]
+PreviewSize=32
+
+[ContextMenu]
+ShowOpenTerminal=false
+
+[DetailsMode]
+PreviewSize=22
+
+[General]
+RememberOpenedTabs=false
+Version=202
+ViewPropsTimestamp=2024,12,10,18,3,47.41
+
+[IconsMode]
+PreviewSize=112
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=22
+
+[MainWindow]
+MenuBar=Disabled
+ToolBarsMovable=Disabled
+
+[PreviewSettings]
+Plugins=jpegthumbnail,windowsexethumbnail,imagethumbnail,exrthumbnail,fontthumbnail,comicbookthumbnail,kraorathumbnail,cursorthumbnail,svgthumbnail,directorythumbnail,djvuthumbnail,appimagethumbnail,windowsimagethumbnail,ebookthumbnail,audiothumbnail,opendocumentthumbnail,gdk-pixbuf-thumbnailer,jxl
