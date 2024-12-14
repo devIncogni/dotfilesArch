@@ -31,7 +31,6 @@ SlidePaths=/home/jedi/.local/share/wallpapers/,/usr/share/wallpapers/
 
 [Containments][103][Wallpaper][org.kde.potd][General]
 FillMode=2
-Provider=flickr
 
 [Containments][104]
 activityId=
@@ -49,7 +48,7 @@ plugin=org.kde.plasma.kickoff
 [Containments][104][Applets][105][Configuration]
 PreloadWeight=100
 popupHeight=640
-popupWidth=881
+popupWidth=880
 
 [Containments][104][Applets][105][Configuration][General]
 favoritesPortedToKAstats=true
@@ -82,7 +81,7 @@ immutability=1
 plugin=org.kde.plasma.systemtray
 
 [Containments][104][Applets][109][Configuration]
-PreloadWeight=85
+PreloadWeight=100
 SystrayContainmentId=110
 
 [Containments][104][Applets][122]
@@ -90,7 +89,7 @@ immutability=1
 plugin=org.kde.plasma.digitalclock
 
 [Containments][104][Applets][122][Configuration]
-PreloadWeight=75
+PreloadWeight=80
 popupHeight=450
 popupWidth=560
 
@@ -125,7 +124,7 @@ immutability=1
 plugin=org.kde.plasma.devicenotifier
 
 [Containments][110][Applets][111][Configuration]
-PreloadWeight=75
+PreloadWeight=90
 
 [Containments][110][Applets][112]
 immutability=1
@@ -183,7 +182,7 @@ immutability=1
 plugin=org.kde.plasma.volume
 
 [Containments][110][Applets][121][Configuration]
-PreloadWeight=65
+PreloadWeight=85
 
 [Containments][110][Applets][121][Configuration][General]
 migrated=true
@@ -193,28 +192,35 @@ immutability=1
 plugin=org.kde.plasma.battery
 
 [Containments][110][Applets][124][Configuration]
-PreloadWeight=12
+PreloadWeight=0
 
 [Containments][110][Applets][125]
 immutability=1
 plugin=org.kde.plasma.brightness
 
 [Containments][110][Applets][125][Configuration]
-PreloadWeight=22
+PreloadWeight=0
 
 [Containments][110][Applets][126]
 immutability=1
 plugin=org.kde.plasma.networkmanagement
 
 [Containments][110][Applets][126][Configuration]
-PreloadWeight=85
+PreloadWeight=90
 
 [Containments][110][Applets][129]
 immutability=1
-plugin=org.kde.plasma.mediacontroller
+plugin=org.kde.plasma.bluetooth
 
 [Containments][110][Applets][129][Configuration]
-PreloadWeight=82
+PreloadWeight=49
+
+[Containments][110][Applets][130]
+immutability=1
+plugin=org.kde.plasma.mediacontroller
+
+[Containments][110][Applets][130][Configuration]
+PreloadWeight=42
 
 [Containments][110][ConfigDialog]
 DialogHeight=540
@@ -227,4 +233,4 @@ knownItems=org.kde.plasma.mediacontroller,org.kde.plasma.devicenotifier,org.kde.
 
 [ScreenMapping]
 itemsOnDisabledScreens=
-screenMapping=file:///home/jedi/Desktop/trash:⁄,0,4e713a63-c29e-4404-8745-225289482a3a,file:///home/jedi/Desktop/trash,0,4e713a63-c29e-4404-8745-225289482a3a
+screenMapping=file:///home/jedi/Desktop/trash,0,4e713a63-c29e-4404-8745-225289482a3a,file:///home/jedi/Desktop/trash:⁄,0,4e713a63-c29e-4404-8745-225289482a3a

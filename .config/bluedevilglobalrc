@@ -1,2 +1,5 @@
+[Adapters]
+00:1E:64:FD:C7:AC_powered=true
+
 [Devices]
 connectedDevices=
