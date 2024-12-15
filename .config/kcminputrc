@@ -1,3 +1,6 @@
+[Keyboard]
+NumLock=0
+
 [Libinput][16700][12314][PixArt Dell MS116 USB Optical Mouse]
 PointerAcceleration=0.000
 PointerAccelerationProfile=2

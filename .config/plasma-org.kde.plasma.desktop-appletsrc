@@ -70,7 +70,7 @@ DialogHeight=540
 DialogWidth=720
 
 [Containments][104][Applets][107][Configuration][General]
-launchers=preferred://filemanager,preferred://browser,applications:kitty.desktop,applications:code.desktop,applications:spotify-launcher.desktop
+launchers=preferred://filemanager,preferred://browser,applications:org.mozilla.Thunderbird.desktop,applications:kitty.desktop,applications:code.desktop,applications:spotify-launcher.desktop
 
 [Containments][104][Applets][108]
 immutability=1
@@ -124,7 +124,7 @@ immutability=1
 plugin=org.kde.plasma.devicenotifier
 
 [Containments][110][Applets][111][Configuration]
-PreloadWeight=90
+PreloadWeight=95
 
 [Containments][110][Applets][112]
 immutability=1
@@ -182,7 +182,7 @@ immutability=1
 plugin=org.kde.plasma.volume
 
 [Containments][110][Applets][121][Configuration]
-PreloadWeight=85
+PreloadWeight=100
 
 [Containments][110][Applets][121][Configuration][General]
 migrated=true
@@ -206,21 +206,24 @@ immutability=1
 plugin=org.kde.plasma.networkmanagement
 
 [Containments][110][Applets][126][Configuration]
-PreloadWeight=90
+PreloadWeight=100
+
+[Containments][110][Applets][126][Configuration][General]
+currentDetailsTab=details
 
 [Containments][110][Applets][129]
 immutability=1
 plugin=org.kde.plasma.bluetooth
 
 [Containments][110][Applets][129][Configuration]
-PreloadWeight=49
+PreloadWeight=46
 
 [Containments][110][Applets][130]
 immutability=1
 plugin=org.kde.plasma.mediacontroller
 
 [Containments][110][Applets][130][Configuration]
-PreloadWeight=42
+PreloadWeight=18
 
 [Containments][110][ConfigDialog]
 DialogHeight=540

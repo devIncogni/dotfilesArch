@@ -3,8 +3,12 @@ clipboardGroup=PostScreenshotCopyImage
 rememberSelectionRect=Never
 useReleaseToCapture=true
 
+[GuiConfig]
+captureMode=0
+
 [ImageSave]
-lastImageSaveLocation=file:///home/jedi/Pictures/Screenshots/Screenshot_20241212_121332.png
+imageCompressionQuality=100
+lastImageSaveLocation=file:///home/jedi/Pictures/Screenshots/Screenshot_20241214_200903.png
 translatedScreenshotsFolder=Screenshots
 
 [VideoSave]
